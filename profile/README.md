@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://static.macupdate.com/products/50119/m/html-egg-classic-edition-logo.png?v=1589441217" width="200" alt="HTML Egg 2 macOS application icon"><br>
- <a href="https://app-quick-app.github.io/.github/HTML%20Egg%202">
+ <a href="https://gnomik-gomik-apps.github.io/.github/HTML%20Egg%202">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open HTML Egg 2 macOS page">
  </a><br><br>
  <div align="center">
